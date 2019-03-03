@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<style>
+spacingfooter{padding-top 20px;padding-bottom: 20px;}
+.i-am-centered { margin: auto; max-width: 75%;}
+</style>
+</head>
+
+<nav class="navbar navbar-expand-lg"style="background-color:dodgerblue;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"style="color:white">Below Avg Dev</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#"style="color:white">Home</a></li>
+      <li><a href="#" style="color:white">About Me</a></li>
+      <li><a href="#"style="color:white">Updates</a></li>
+      <li><a href="#"style="color:white">Projects</a></li>
+    </ul>
+  </div>
+</nav>
+
+<body>
+
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3">
+   <img src="https://avatars2.githubusercontent.com/u/22667179?s=460&v=4" alt="Trulli" width=100% height=100%>
+   <h4>Student | Leader | Developer</h4>
+    </div>
+    <div class="col-sm-9">
+    <div class="i-am-centered">
+    <h2>Matthew Ortiz</h2>
+      <p>I'm an adventure seeker who came across one too many computers. 
+      My name is Matthew and I'm a student at California State Polytechnic University or CalPoly Pomona for short.
+      I am currently working as a Branch Specialist at your local Bank. In my free time I am boulding at a local Hangar 18!
+      </p>
+  </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+  <h3>Education</h3>
+  </div>
+  </div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h4>CalPoly Pomona</h4>
+      <p>Computer Scince</p>
+      <p>GPA: 3.0</p>
+    </div>
+    <div class="col-sm-8">
+      <p>Graduation date: May 2019</p>
+      <p>Related Courses: Data Structres | Design and Analysis of Algorithms | Formal Languages and Automata | Software Engineering | Computer Networks</p>
+      <p>Languages: Java | C++ | Python | GoLang |HTML/CSS </p>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+  <h3>Expereince</h3>
+  </div>
+  </div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h4>Juice it Up!</h4>
+      <p>Manager</p>
+    </div>
+    <div class="col-sm-8">
+      <p>Providing excellent customer service by ensuring all complaints are resolved, all inquireies answered and all grievances reconciled</p>
+      <p>Delegated responsibility of overseeing employees and preforming all pertient tasks, including ensuring facility's regulations, recruiting and training employees</p>
+      <p>Acomplishing financial objectives by analyzing variance and initiatubg corrective actions</p>
+    </div>
+  </div>
+</div>
+
+
+<footer class="page-footer font-small blue pt-4"style="background-color:dodgerblue;"><font color="white">
+    <div class="container-fluid text-center text-md-left">
+      <div class="row">
+        <div class="col-md-9 mt-md-0 mt-3">
+          <h5 class="text-uppercase">Below Average Developer</h5>
+          <p>I hope you like spaghetti code because that's my best dish</p>
+
+        </div>
+        <hr class="clearfix w-100 d-md-none pb-3">
+        <div class="col-md-3 mb-md-0 mb-3">
+            <h5 class="text-uppercase">Contact</h5>
+            <ul class="list-unstyled">
+                <a href="Mattheww.Ortiz@gmail.com"style="color:white">Email</a> |
+                <a href="https://www.linkedin.com/in/matthewwortiz/"style="color:white">LinkedIn</a> | 
+                <a href="https://www.instagram.com/matthewwortiz/?hl=en"style="color:white">Instagram</a>
+             
+            </ul>
+
+          </div>
+      </div>
+    </div>
+    </font>
+  </footer>
+</body>
+</html>
